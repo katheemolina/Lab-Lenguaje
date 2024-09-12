@@ -6,7 +6,7 @@ Bienvenidos al repositorio del curso **Laboratorio de Lenguaje** de la Universid
 Grupo 8:
 - [@juanigpunte](https://github.com/Juanigpunte)
 - [@agusmoscato](https://github.com/agusmoscato)
-- Lolo
+- [@Lorenzoalvarezb](https://github.com/Lorenzoalvarezb)
 
 ## Contenidos
 - **Apuntes de clase:** Resúmenes y esquemas de los temas abordados.
