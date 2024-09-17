@@ -6,6 +6,7 @@
 - Evaluación de los lenguajes de programación a través de las características del software que producen.  
 - Principios de diseño de los lenguajes.
 
+## Índice de Contenidos
  - [Introducción](#introducción)
    - [Definición de Lenguaje de Programación](#definición-de-lenguaje-de-programación)
    - [Estructura de un Lenguaje de Programación](#estructura-de-un-lenguaje-de-programación)
