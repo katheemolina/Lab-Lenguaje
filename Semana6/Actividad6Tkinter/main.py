@@ -1,4 +1,4 @@
-from gui.interfaz import cargar_jugador, cargar_jugador_menu, consultar_estadisticas
+from gui.interfaz import cargar_jugador, cargar_jugador_menu, consultar_estadisticas, agregar_goles
 import tkinter as tk
 from tkinter import Menu, messagebox
 
@@ -31,6 +31,9 @@ btnCargarJugador.pack(pady=5)
 
 btnEstadisticas = tk.Button(root, text ="Consultar estadisticas", command=consultar_estadisticas)
 btnEstadisticas.pack(pady=5)
+
+btnAgregarGoles = tk.Button(root, text ="Agregar Goles", command=agregar_goles)
+btnAgregarGoles.pack(pady=5)
 
 btnSalir = tk.Button(root, text ="Salir del sistema", command=exit_app)
 btnSalir.pack(pady=5)
